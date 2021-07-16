@@ -1,8 +1,3 @@
-/*
-Hesham ashraf mousa(139593)
-Section 7
-Assignment code (array based list):
-*/
 #include<iostream>
 using namespace std;
 struct information {
